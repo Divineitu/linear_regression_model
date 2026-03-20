@@ -1,0 +1,12 @@
+# raw data files (too large for GitHub — 326MB)
+summative/linear_regression/data/EdStatsData.csv
+summative/linear_regression/data/EdStatsFootNote.csv
+summative/linear_regression/data/EdStatsCountry-Series.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
