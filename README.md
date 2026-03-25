@@ -38,3 +38,9 @@ Random Forest gave the best results with a Test R² of 0.96 and lowest MSE of 1.
 
 API Endpoint: https://linear-regression-model-cios.onrender.com
 Swagger UI: https://linear-regression-model-cios.onrender.com/docs
+
+## How to Run the Mobile App
+```bash
+cd summative/FlutterApp
+flutter pub get
+flutter run
