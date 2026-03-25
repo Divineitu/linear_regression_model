@@ -34,3 +34,7 @@ Random Forest gave the best results with a Test R² of 0.96 and lowest MSE of 1.
 1. Install dependencies: `pip install -r requirements.txt`
 2. Open `summative/linear_regression/multivariate.ipynb` and run all cells
 3. For standalone predictions: `python summative/linear_regression/predict.py`
+
+
+API Endpoint: https://linear-regression-model-cios.onrender.com
+Swagger UI: https://linear-regression-model-cios.onrender.com/docs
