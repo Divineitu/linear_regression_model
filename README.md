@@ -44,3 +44,7 @@ Swagger UI: https://linear-regression-model-cios.onrender.com/docs
 cd summative/FlutterApp
 flutter pub get
 flutter run
+
+
+LINK TO DEMO VIDEO
+https://youtu.be/BUF5eP8Flsk
